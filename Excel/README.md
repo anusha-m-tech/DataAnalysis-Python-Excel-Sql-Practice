@@ -13,7 +13,7 @@ This repository contains Excel practice across different learning platforms.
 *   **Spreadsheet Software:** Microsoft Excel
 *   **Editor:** Microsoft 365 (Web)
 
-## 📈 Goals
+## 🎯 Goals
 
 *   [ ] Complete the [*Excel certification*](https://www.excel-easy.com/) course on Excel-Easy.
 *   [ ] Complete the [*Excel fundamentals certificate*](https://coddy.tech/journeys/excel/fundamentals) course on Coddy.tech.
