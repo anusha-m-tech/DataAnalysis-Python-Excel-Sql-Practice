@@ -22,7 +22,7 @@ This repository contains Python coding exercises across different learning platf
 *   **Language:** Python 3
 *   **Editor:** *PyCharm*, online compilers
 
-## 📈 Goals
+## 🎯 Goals
 
 *   [ ] Complete the [*Python certification*](https://www.freecodecamp.org/learn/python-v9/) course on freeCodeCamp.
 *   [ ] Complete the [*100 Days of Code™: The Complete Python Pro Bootcamp, by Angela Yu*](https://www.udemy.com/course/100-days-of-code/) course from Udemy
