@@ -4,8 +4,8 @@ This repository contains Excel practice across different learning platforms.
 
 ## 🔗 Platforms Covered
 
+*   **coddy.tech:** [Data Analyst Path](https://coddy.tech/paths/data-analyst) from Coddy.tech.
 *   **excel-easy:** [Excel Certificate](https://www.excel-easy.com/) course on Excel-Easy.
-*   **coddy.tech:** [Excel Fundamentals Certificate](https://coddy.tech/journeys/excel/fundamentals) from Coddy.tech.
   
 
 ## ⚒️ Tools Used
@@ -15,11 +15,13 @@ This repository contains Excel practice across different learning platforms.
 
 ## 🎯 Goals
 
-*   [X] ➤ Complete the [*Excel fundamentals certificate*](https://coddy.tech/journeys/excel/fundamentals) course on Coddy.tech. [╰┈➤(Verify Certificate)](https://coddy.tech/certifications/lqepIN-excel-RJobxc)
+➤ ✅ Complete the [*Excel fundamentals certificate*](https://coddy.tech/journeys/excel/fundamentals) course on Coddy.tech. [╰┈➤(Verify Certificate)](https://coddy.tech/certifications/lqepIN-excel-RJobxc)
         
 <a href="https://coddy.tech/certifications/lqepIN-excel-RJobxc"><img width="320" alt="lqepIN-excel-RJobxc - Copy conv 0" src="https://github.com/user-attachments/assets/359900f6-5698-4817-91f0-923f97588ed0" /></a>
 
-*   [ ] ➤ Complete the [*Excel certification*](https://www.excel-easy.com/) course on Excel-Easy.
+➤ 🟥 Complete the [*Excel Formulas and Data Analysis certificate*](https://coddy.tech/journeys/excel/formulas_and_data_analysis) course on Coddy.tech.
+
+➤ 🟥 Complete the [*Excel certification*](https://www.excel-easy.com/) course on Excel-Easy.
 
 
 ---
