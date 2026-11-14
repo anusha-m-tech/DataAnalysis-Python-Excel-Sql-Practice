@@ -50,7 +50,7 @@ DataAnalysis-Python-Practice/
 
 **Excel:**
 *   [ ] Complete the [*Excel certification*](https://www.excel-easy.com/) course on Excel-Easy.
-*   [ ] Complete the [*Excel fundamentals certificate*](https://coddy.tech/journeys/excel/fundamentals) course on Coddy.tech.
+*   [X] Complete the [*Excel fundamentals certificate*](https://coddy.tech/journeys/excel/fundamentals) course on Coddy.tech. [╰┈➤(Verify Certificate)](https://coddy.tech/certifications/lqepIN-excel-RJobxc)
 
 
 ---
