@@ -52,6 +52,7 @@ DataAnalysis-Python-Practice/
 *   [ ] Complete the [*Excel certification*](https://www.excel-easy.com/) course on Excel-Easy.
 *   [X] Complete the [*Excel fundamentals certificate*](https://coddy.tech/journeys/excel/fundamentals) course on Coddy.tech. [╰┈➤(Verify Certificate)](https://coddy.tech/certifications/lqepIN-excel-RJobxc)
 
+<a href="https://coddy.tech/certifications/lqepIN-excel-RJobxc"><img width="320" alt="lqepIN-excel-RJobxc - Copy conv 0" src="https://github.com/user-attachments/assets/359900f6-5698-4817-91f0-923f97588ed0" /></a>
 
 ---
 *Thanks for visiting my repository!*
