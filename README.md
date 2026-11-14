@@ -5,7 +5,7 @@ This repository contains Python, Excel, SQL related exercises across different l
 ## 🎓 Topics Covered :
 
 **Python :**
-*   **freeCodeCamp:** Practice related to [*'Python'* certification course](https://www.freecodecamp.org/learn/python-v9/), [╰┈➤(My Profile)](https://www.freecodecamp.org/anusha-2125)
+*   **freeCodeCamp:** Practice related to [*'Python'* certification course](https://www.freecodecamp.org/learn/python-v9/), [╰┈➤(My Profile)](https://www.freecodecamp.org/anusha-m-tech)
 *   **Udemy:** Projects from course: [100 Days of Code™: The Complete Python Pro Bootcamp, by Angela Yu](https://www.udemy.com/course/100-days-of-code/)
 *   **SoloLearn:** [Core Python](https://www.sololearn.com/en/learn/courses/python-developer) concept reviews.
 *   **PYnative:** [Python Practice Exercises](https://pynative.com/python-exercises-with-solutions/) Checklist
