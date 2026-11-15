@@ -55,5 +55,7 @@ DataAnalysis-Python-Practice/
 <a href="https://coddy.tech/certifications/lqepIN-excel-RJobxc"><img width="320" alt="lqepIN-excel-RJobxc - Copy conv 0" src="https://github.com/user-attachments/assets/359900f6-5698-4817-91f0-923f97588ed0" /></a>
 
 ---
+Disclaimer: Most files in the practice repositories contain spaces in the titles for visual organization as they are just meant to be references to my practice and not to be run directly. Future project repositories will follow proper naming standards for a professional and functional execution.
+```
 *Thanks for visiting my repository!*
 
